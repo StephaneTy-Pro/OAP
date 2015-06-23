@@ -17,3 +17,24 @@ Addin for Excel to generate scenarii for testing specific OAP tools build by Ler
 
 Features
 --------
+
+Install and Run
+---------------
+
+
+
+Developers and Translators
+-------------------------
+
+If you want to help with translating, fixing or writing code read
+[HACKING](https://github.com/StephaneTy-Pro/OAP/blob/master/HACKING) file.
+
+Dependencies
+------------
+
+Keyboard navigation
+-------------------
+
+Basic Usage
+-----------
+
